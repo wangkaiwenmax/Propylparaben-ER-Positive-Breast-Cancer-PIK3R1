@@ -49,7 +49,7 @@ The project integrates network toxicology, TCGA transcriptomic data, machine lea
 
 ### 1. Clone this repository
 ```bash
-git clone [https://github.com/yourname/propylparaben-erpos-breast-cancer-pik3r1.git](https://github.com/wangkaiwenmax/Propylparaben-ER-Positive-Breast-Cancer-PIK3R1.git)
+git clone https://github.com/wangkaiwenmax/Propylparaben-ER-Positive-Breast-Cancer-PIK3R1.git
 
 ```
 
